@@ -3,13 +3,12 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copia los archivos del proyecto y restaura las dependencias
-COPY ./NoticiasAPI.sln ./
-COPY ./NoticiasAPI/*.csproj ./NoticiasAPI/
-WORKDIR /app/NoticiasAPI
+COPY *.sln ./
+COPY *.csproj ./
 RUN dotnet restore
 
 # Copia el resto de los archivos del proyecto y compila la aplicación
-COPY ./NoticiasAPI/. ./
+COPY . ./
 RUN dotnet publish -c Release -o /app/publish
 
 # Usa una imagen más ligera para ejecutar la aplicación
