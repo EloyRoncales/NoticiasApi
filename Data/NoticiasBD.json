@@ -1,121 +1,165 @@
 [
-    {
+  {
     "Id": 1,
     "Titulo": "El Tudelano se la juega en la última jornada",
-    "Contenido": "El Club Deportivo Tudelano se enfrentó al Arenas de Getxo en un partido crucial para su permanencia en la Segunda RFEF. A pesar de mostrar una buena imagen y remontar un gol inicial, un tanto en los minutos finales dejó al equipo sin premio. Ahora, el Tudelano deberá confirmar su permanencia en casa frente al Anguiano, en un duelo a vida o muerte. La afición se prepara para apoyar al equipo en este decisivo encuentro.",
+    "Contenido": "El Club Deportivo Tudelano se enfrentó al Arenas de Getxo en un partido crucial para su permanencia en la Segunda RFEF. A pesar de mostrar una buena imagen y remontar un gol inicial, un tanto en los minutos finales dejó al equipo sin premio.\n\nAhora, el Tudelano deberá confirmar su permanencia en casa frente al Anguiano, en un duelo a vida o muerte. La afición se prepara para apoyar al equipo en este decisivo encuentro.",
     "Autor": "Ekain Barreiro",
-    "FechaPublicacion": "27/04/2025"
+    "FechaPublicacion": "2025-04-27T18:06:00"
   },
   {
     "Id": 2,
     "Titulo": "Gerard Piqué, en el Promesas-Andorra",
-    "Contenido": "El exjugador del FC Barcelona, Gerard Piqué, asistió al partido entre Osasuna Promesas y el FC Andorra en Tajonar. Como máximo accionista del club andorrano, Piqué presenció el calentamiento desde una esquina del campo e incluso participó en el trabajo de los porteros locales. Su presencia no pasó desapercibida entre los aficionados, quienes aprovecharon para saludar y fotografiarse con el exfutbolista. Tras el encuentro, Piqué compartió una cena con miembros del club, fortaleciendo los lazos entre ambas entidades.",
+    "Contenido": "El exjugador del FC Barcelona, Gerard Piqué, asistió al partido entre Osasuna Promesas y el FC Andorra en Tajonar. Como máximo accionista del club andorrano, Piqué presenció el calentamiento desde una esquina del campo e incluso participó en el trabajo de los porteros locales.\n\nSu presencia no pasó desapercibida entre los aficionados, quienes aprovecharon para saludar y fotografiarse con el exfutbolista. Tras el encuentro, Piqué compartió una cena con miembros del club, fortaleciendo los lazos entre ambas entidades.",
     "Autor": "Irache Castillo",
-    "FechaPublicacion": "27/04/2025"
+    "FechaPublicacion": "2025-04-27T17:08:00"
   },
   {
     "Id": 3,
     "Titulo": "Un derbi navarro de Primera",
-    "Contenido": "El ATP Iluminación Tudelano Ribera Navarra logró un triunfo histórico al imponerse por 1-6 al Osasuna Magna Xota en el derbi navarro disputado en el pabellón Anaitasuna. Este resultado marca la primera victoria del equipo de Tudela en Pamplona en partido oficial. El encuentro estuvo lleno de emoción y goles, destacando la actuación de los visitantes que supieron aprovechar las oportunidades y mantener una defensa sólida. Esta victoria refuerza la posición del Tudelano Ribera Navarra en la clasificación y demuestra su crecimiento en la categoría.",
+    "Contenido": "El ATP Iluminación Tudelano Ribera Navarra logró un triunfo histórico al imponerse por 1-6 al Osasuna Magna Xota en el derbi navarro disputado en el pabellón Anaitasuna. Este resultado marca la primera victoria del equipo de Tudela en Pamplona en partido oficial.\n\nEl encuentro estuvo lleno de emoción y goles, destacando la actuación de los visitantes que supieron aprovechar las oportunidades y mantener una defensa sólida. Esta victoria refuerza la posición del Tudelano Ribera Navarra en la clasificación y demuestra su crecimiento en la categoría.",
     "Autor": "Redacción",
-    "FechaPublicacion": "26/04/2025"
+    "FechaPublicacion": "2025-04-26T10:02:00"
   },
   {
     "Id": 4,
     "Titulo": "Luis de la Fuente, López Vallejo y Santi Denia acuden a Navarra para una charla por el centenario de un club",
-    "Contenido": "Tafalla acogerá el próximo lunes, 12 de mayo, uno de los actos más destacados del centenario de la Peña Sport. A partir de las 19:30 horas, el Centro Cultural Kulturgunea será el escenario de una charla con tres figuras clave del fútbol español: Luis de la Fuente, actual seleccionador nacional; Santi Denia, seleccionador sub-21; y López Vallejo, exguardameta y actual director deportivo. El evento promete ser un homenaje al legado y la historia del club tafallés, ofreciendo a los asistentes la oportunidad de conocer de cerca las experiencias y perspectivas de estos destacados profesionales del fútbol.",
+    "Contenido": "Tafalla acogerá el próximo lunes, 12 de mayo, uno de los actos más destacados del centenario de la Peña Sport. A partir de las 19:30 horas, el Centro Cultural Kulturgunea será el escenario de una charla con tres figuras clave del fútbol español: Luis de la Fuente, actual seleccionador nacional; Santi Denia, seleccionador sub-21; y López Vallejo, exguardameta y actual director deportivo.\n\nEl evento promete ser un homenaje al legado y la historia del club tafallés, ofreciendo a los asistentes la oportunidad de conocer de cerca las experiencias y perspectivas de estos destacados profesionales del fútbol.",
     "Autor": "Redacción",
-    "FechaPublicacion": "11/05/2025"
+    "FechaPublicacion": "2025-05-11T11:53:00"
   },
   {
     "Id": 5,
     "Titulo": "El Comité de Apelación falla tras el recurso de Osasuna presentado por el caso Íñigo Martínez del Barcelona",
-    "Contenido": "El Comité de Apelación de la Real Federación Española de Fútbol (RFEF) desestimó el recurso presentado por Osasuna respecto a la supuesta alineación indebida de Íñigo Martínez por parte del FC Barcelona en el partido del 27 de marzo, que terminó 3-0 a favor del club catalán. Osasuna alegaba que el jugador no debía haber participado tras haber sido dado de baja por motivos médicos de la selección española el 17 de marzo. Sin embargo, Apelación concluyó que la desconvocatoria del jugador fue oficial y notificada adecuadamente, por lo que ya no estaba sujeto a la restricción de cinco días establecida por la FIFA. También aclaró que solo la RFEF puede decidir si una lesión está suficientemente acreditada y que no era necesario un reconocimiento médico federativo dado que la federación aceptó los informes médicos del Barcelona. Asimismo, rechazó que existiera trato discriminatorio en comparación con otros jugadores. En resumen, las alegaciones de Osasuna fueron descartadas por una interpretación jurídica que favoreció al FC Barcelona.",
+    "Contenido": "El Comité de Apelación de la Real Federación Española de Fútbol (RFEF) desestimó el recurso presentado por Osasuna respecto a la supuesta alineación indebida de Íñigo Martínez por parte del FC Barcelona en el partido del 27 de marzo, que terminó 3-0 a favor del club catalán. Osasuna alegaba que el jugador no debía haber participado tras haber sido dado de baja por motivos médicos de la selección española el 17 de marzo.\n\nSin embargo, Apelación concluyó que la desconvocatoria del jugador fue oficial y notificada adecuadamente, por lo que ya no estaba sujeto a la restricción de cinco días establecida por la FIFA. También aclaró que solo la RFEF puede decidir si una lesión está suficientemente acreditada y que no era necesario un reconocimiento médico federativo dado que la federación aceptó los informes médicos del Barcelona.\n\nAsimismo, rechazó que existiera trato discriminatorio en comparación con otros jugadores. En resumen, las alegaciones de Osasuna fueron descartadas por una interpretación jurídica que favoreció al FC Barcelona.",
     "Autor": "Íñigo Zurbano",
-    "FechaPublicacion": "08/05/2025"
+    "FechaPublicacion": "2025-05-08T15:09:00"
   },
   {
     "Id": 6,
-    "Titulo": "Osasuna Magna Navarra derrota al Palma Futsal en Anaitasuna",
-    "Contenido": "Osasuna Magna Navarra logró una destacada victoria al derrotar al Illes Balears Palma Futsal, tricampeón de la UEFA Futsal Liga de Campeones, por 6-4 en el pabellón Anaitasuna. Con este resultado, Osasuna Magna se posiciona como firme candidato a los playoffs, empatado a puntos con el Barça.",
+    "Titulo": "El debut de los nuevos fichajes de Osasuna en la pretemporada",
+    "Contenido": "La pretemporada del CA Osasuna dio inicio con la incorporación de varios nuevos fichajes, entre ellos, un delantero proveniente de la Liga Argentina y un mediocampista internacional de la Bundesliga. La hinchada rojilla esperaba con expectación su debut y los nuevos jugadores no defraudaron.\n\nEn un partido amistoso contra el Deportivo Alavés, el equipo mostró un buen nivel de juego, con varias jugadas destacadas de los nuevos integrantes. El delantero, quien ya había jugado en equipos de alta competencia, demostró sus habilidades al marcar un gol en el primer tiempo, mientras que el mediocampista controló el ritmo del juego con pases precisos y jugadas de peligro.\n\nEl entrenador, Jagoba Arrasate, expresó su satisfacción con el rendimiento de los nuevos jugadores y señaló que la pretemporada servirá para ir ajustando detalles antes del inicio oficial de la temporada en LaLiga.",
     "Autor": "Redacción",
-    "FechaPublicacion": "10/05/2025"
+    "FechaPublicacion": "2025-07-15T09:00:00"
   },
   {
     "Id": 7,
-    "Titulo": "Osasuna Femenino certifica su permanencia en Primera Federación",
-    "Contenido": "Osasuna Femenino certificó su permanencia en la Primera Federación tras vencer al colista, lo que les permite centrarse en la planificación de la próxima temporada.",
+    "Titulo": "La Peña Sport se refuerza con nuevos talentos para la Segunda RFEF",
+    "Contenido": "El club de fútbol Peña Sport sigue dando pasos importantes en su proceso de profesionalización. De cara a la nueva temporada en la Segunda RFEF, el equipo de Tafalla ha incorporado varios jugadores jóvenes provenientes de la cantera y algunos fichajes de otras ligas españolas.\n\nEn la última rueda de prensa, el presidente del club, Javier Larraya, destacó que el objetivo es luchar por mantener la categoría, pero también seguir con el proceso de formación de talentos navarros para el futuro. Entre los nuevos fichajes, destaca un defensor que jugó en las inferiores del Real Betis y un delantero con experiencia en la Segunda B.\n\nLa afición espera con ansias la primera jornada, donde el equipo buscará comenzar con buen pie en la nueva temporada.",
     "Autor": "Redacción",
-    "FechaPublicacion": "09/05/2025"
+    "FechaPublicacion": "2025-06-20T14:00:00"
   },
   {
     "Id": 8,
-    "Titulo": "Mutilvera regresa a la Segunda RFEF tras ganar la Tercera División",
-    "Contenido": "Mutilvera logró el campeonato de Tercera División y regresará a la Segunda RFEF, mientras que el Valle de Egüés disputará la promoción.",
+    "Titulo": "El Osasuna Femenino sigue sumando éxitos en su camino hacia la Primera División",
+    "Contenido": "El equipo femenino del CA Osasuna continúa su ascendente trayectoria en la Liga F, logrando importantes victorias en su lucha por el ascenso a la Primera División. En el último partido disputado, las chicas rojillas se enfrentaron al Sporting Huelva en un duelo decisivo para la clasificación.\n\nCon una brillante actuación de la delantera navarra, quien anotó un golazo en el minuto 85, Osasuna se llevó la victoria por 2-1. El equipo mostró una vez más su fortaleza defensiva y su capacidad para generar peligro en ataque.\n\nLa entrenadora, Jacqui, destacó la importancia de mantener la concentración y seguir trabajando duro para alcanzar el objetivo de la Primera División, aunque también mostró su satisfacción con el nivel de juego que han mostrado las jugadoras.",
     "Autor": "Redacción",
-    "FechaPublicacion": "08/05/2025"
+    "FechaPublicacion": "2025-06-25T10:30:00"
   },
   {
     "Id": 9,
-    "Titulo": "Fútbol 7 Navarra cierra su temporada con la última jornada de la Liga Fin de Semana",
-    "Contenido": "Fútbol 7 Navarra cerró su temporada con la última jornada de la Liga Fin de Semana, destacando partidos como el Caracoles F.C. vs. Amigó - Amigó 2 y Grupo Iryal vs. Escuadrón Txorizo.",
+    "Titulo": "El nuevo estadio de Osasuna, a punto de inaugurarse",
+    "Contenido": "El nuevo estadio de Osasuna, en el corazón de Pamplona, está a punto de inaugurarse con un partido amistoso frente a un club de primer nivel europeo. Después de varios años de obras, el estadio está listo para albergar a más de 23,000 espectadores.\n\nEl presidente del club, Luis Sabalza, manifestó en la rueda de prensa que este nuevo estadio es un símbolo del crecimiento de Osasuna y del amor de la ciudad hacia su equipo. El nuevo estadio contará con modernas instalaciones, incluyendo un museo dedicado a la historia del club y zonas VIP.\n\nLa inauguración está prevista para el 15 de agosto, con un evento especial que contará con la presencia de importantes figuras del fútbol y la cultura navarra.",
     "Autor": "Redacción",
-    "FechaPublicacion": "10/05/2025"
+    "FechaPublicacion": "2025-08-03T11:00:00"
   },
   {
     "Id": 10,
-    "Titulo": "Entrevista a Abel Bretones en COPE Navarra",
-    "Contenido": "COPE Navarra entrevistó a Abel Bretones, futbolista de Osasuna, quien compartió su experiencia y adaptación al equipo.",
-    "Autor": "Alberto Sanz",
-    "FechaPublicacion": "30/04/2025"
+    "Titulo": "La revolución en la cantera de Osasuna: nuevos métodos de formación",
+    "Contenido": "La cantera de Osasuna ha comenzado una nueva etapa con la incorporación de nuevos métodos de formación, con el objetivo de continuar produciendo talento navarro que llegue al primer equipo. Bajo la dirección de entrenadores internacionales y especialistas en desarrollo juvenil, los jóvenes de Osasuna tienen ahora acceso a tecnologías avanzadas de análisis de rendimiento y técnicas de entrenamiento innovadoras.\n\nEsta inversión en la cantera se considera clave para el futuro del club, que busca no solo mejorar sus resultados a corto plazo, sino también asegurar un suministro continuo de futbolistas de calidad para los próximos años.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-05-20T12:00:00"
   },
+
   {
     "Id": 11,
-    "Titulo": "Ramón Lázaro, presidente de Tudelano y Ribera Navarra, en Onda Cero Navarra",
-    "Contenido": "Onda Cero Navarra realizó una entrevista con Ramón Lázaro, presidente de Tudelano y Ribera Navarra, abordando temas de actualidad y proyectos futuros.",
+    "Titulo": "El Osasuna Magna desarma al tricampeón de Europa",
+    "Contenido": "El Osasuna Magna Navarra logró una destacada victoria al derrotar al Illes Balears Palma Futsal, tricampeón de la UEFA Futsal Liga de Campeones, por 6-4 en el pabellón Anaitasuna. Con este resultado, Osasuna Magna se posiciona como firme candidato a los playoffs, empatado a puntos con el Barça. El equipo navarro impuso un ritmo intenso desde el inicio, alcanzando un parcial de 4-0 en apenas 16 minutos, con sobresaliente actuación del ucraniano Ihor Korsun y del brasileño Juninho, autor del gol más destacado. A pesar de una mejoría del Palma en la segunda mitad, con buenas actuaciones de Mateus Maia y Gordillo, no lograron igualar el marcador. Ion Cerviño sentenció el partido con un gol desde su campo, consolidando una merecida victoria para los locales.",
     "Autor": "Redacción",
-    "FechaPublicacion": "05/05/2025"
+    "FechaPublicacion": "2025-05-10T20:30:00"
   },
   {
     "Id": 12,
-    "Titulo": "Luis de la Fuente, López Vallejo y Santi Denia en Tafalla",
-    "Contenido": "Luis de la Fuente, López Vallejo y Santi Denia participarán en una charla el lunes 12 de mayo en el Centro Cultural Kulturgunea de Tafalla, con motivo del centenario de la Peña Sport.",
-    "Autor": "Redacción",
-    "FechaPublicacion": "11/05/2025"
+    "Titulo": "La Mutilvera regresa a la Segunda RFEF tras una jornada épica",
+    "Contenido": "La Mutilvera ya es nuevo equipo de la Segunda RFEF tras derrotar por 4-1 al Huarte y aprovecharse del pinchazo del Valle de Egüés ante el San Juan (1-1). En una tarde épica, con continuos cambios de líder, los de Álvaro Garrido ya festejan el ascenso. San Juan, Cortes y Peña Sport completan el playoff. Gares y Rotxapea descienden de categoría junto al Cantolagua. El Burladés, en riesgo, se salvará si hay otro ascenso vía playoff.",
+    "Autor": "Borja Bernarte",
+    "FechaPublicacion": "2025-05-10T18:21:00"
   },
   {
     "Id": 13,
-    "Titulo": "La UPNA gana el Campeonato Navarro Universitario de fútbol sala",
-    "Contenido": "El equipo de la Universidad Pública de Navarra (UPNA), integrado por estudiantes de la localidad de Cintruénigo, se impuso a la Universidad de Navarra por un marcador de 4-6 en el Campeonato Navarro Universitario de fútbol sala masculino.",
-    "Autor": "Redacción",
-    "FechaPublicacion": "10/04/2025"
+    "Titulo": "El Valle de Egüés y la Mutilvera jugarán la Copa del Rey",
+    "Contenido": "El Valle de Egüés y la Mutilvera han asegurado su participación en la Copa del Rey tras una temporada destacada en la Tercera Federación. Ambos equipos se han clasificado para la promoción de ascenso, lo que les permite disputar el prestigioso torneo nacional. La afición espera con ansias los emparejamientos que les deparará la Copa.",
+    "Autor": "Irache Castillo",
+    "FechaPublicacion": "2025-05-10T21:23:00"
   },
   {
     "Id": 14,
-    "Titulo": "EFIN lanza la Liga Interna F6 para sus categorías formativas",
-    "Contenido": "La Escuela de Fútbol Infantil Navarro (EFIN) dio inicio a la Liga Interna F6, destinada a las categorías 7ma, 8va y 9na, con el objetivo de seguir formando futbolistas desde una mirada integral.",
-    "Autor": "Roberto Gómez",
-    "FechaPublicacion": "17/04/2025"
+    "Titulo": "El Tudelano estudia tres ofertas para su venta",
+    "Contenido": "El Club Deportivo Tudelano está evaluando tres ofertas para su venta, según ha confirmado su presidente, Ramón Lázaro. El club busca una solución que garantice su estabilidad económica y deportiva. Las negociaciones están en marcha y se espera que en las próximas semanas se tome una decisión al respecto.",
+    "Autor": "Borja Bernarte",
+    "FechaPublicacion": "2025-05-10T20:00:00"
   },
   {
     "Id": 15,
-    "Titulo": "El Gobierno de Navarra convoca ayudas para reformar campos de fútbol 11 de césped natural a artificial",
-    "Contenido": "El Gobierno de Navarra ha convocado ayudas por un total de 800.000 euros para la reforma de campos de fútbol 11 de césped natural a artificial, dirigidas a entidades locales, con plazo para solicitar hasta el 26 de mayo.",
-    "Autor": "Redacción",
-    "FechaPublicacion": "05/05/2025"
+    "Titulo": "Al Subiza se le caen los goles ante el Izarra",
+    "Contenido": "El conjunto de César Monasterio despide la temporada y la categoría con una victoria por 1-5 en Merkatondoa. A pesar de la derrota, el Izarra mostró una actitud positiva y luchó hasta el final. El Subiza, por su parte, celebró el triunfo como un reconocimiento al esfuerzo de toda la temporada.",
+    "Autor": "Irache Castillo",
+    "FechaPublicacion": "2025-05-04T18:50:00"
   },
   {
     "Id": 16,
-    "Titulo": "Onda Deportiva Navarra analiza el fútbol navarro",
-    "Contenido": "Onda Cero Navarra, en su programa Onda Deportiva Navarra, analizó la actualidad del fútbol navarro con la participación de Javier Ugalde.",
-    "Autor": "Javier Saralegui",
-    "FechaPublicacion": "06/05/2025"
+    "Titulo": "La Peña Sport se prepara para el playoff de ascenso",
+    "Contenido": "La Peña Sport se enfrentará al Valle de Egüés en la primera eliminatoria del playoff de ascenso a la Segunda RFEF. El equipo de Tafalla ha mostrado un buen nivel de juego durante la temporada y buscará superar esta fase para lograr el ansiado ascenso. La afición confía en el equipo y espera con ilusión el inicio de los playoffs.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-05-10T19:00:00"
   },
   {
     "Id": 17,
-    "Titulo": "Onda Deportiva Navarra entrevista a César Monasterio, entrenador de Subiza",
-    "Contenido": "Onda Cero Navarra entrevistó a César Monasterio, entrenador de Subiza, segundo filial de Osasuna, quien compartió sus experiencias y visión del fútbol navarro.",
-    "Autor": "Javier Saralegui",
-    "FechaPublicacion": "15/04/2025"
+    "Titulo": "El Burladés se salvará si hay otro ascenso vía playoff",
+    "Contenido": "El Burladés, que se encontraba en zona de descenso, ha recibido una segunda oportunidad para mantener la categoría. Si otro equipo asciende a la Segunda RFEF a través del playoff, el Burladés se beneficiará y continuará en la Tercera Federación. El club y su afición esperan con esperanza que se cumpla esta condición.",
+    "Autor": "Borja Bernarte",
+    "FechaPublicacion": "2025-05-10T18:33:00"
+  },
+  {
+    "Id": 18,
+    "Titulo": "La Fase Final Absoluta de Fútbol 7 Navarra se disputará el 15 de junio",
+    "Contenido": "La Fase Final Absoluta de la temporada 2024/2025 de Fútbol 7 Navarra se celebrará el domingo 15 de junio. Equipos de toda la comunidad se preparan para competir en este evento que reunirá a los mejores conjuntos de la temporada. Las inscripciones para la Copa Primavera están abiertas y se espera una gran participación.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-05-08T12:00:00"
+  },
+  {
+    "Id": 19,
+    "Titulo": "La Copa Navarra 2025 de Fútbol Sala se acerca",
+    "Contenido": "La Copa Navarra 2025 de Fútbol Sala está en marcha, con equipos de toda la región compitiendo por el título. El torneo, organizado por la Asociación Copa Navarra, promete emocionantes enfrentamientos y gran nivel de juego. Los equipos ya han comenzado a prepararse para las próximas rondas.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-04-16T10:00:00"
+  },
+  {
+    "Id": 20,
+    "Titulo": "La selección infantil de Navarra se prepara para el Campeonato de España",
+    "Contenido": "La selección infantil de fútbol de Navarra, dirigida por Iñaki Aguirre, ha comenzado su preparación para el Campeonato de España que se disputará del 9 al 13 de abril de 2025. El equipo ha realizado varias sesiones de entrenamiento intensivas para llegar en la mejor forma posible a la competición.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-04-05T14:00:00"
+  },
+  {
+    "Id": 21,
+    "Titulo": "La selección cadete de Navarra avanza a semifinales",
+    "Contenido": "La selección cadete de fútbol de Navarra ha logrado clasificarse para las semifinales del Campeonato de España tras una destacada actuación en la fase de grupos. El equipo, dirigido por su entrenador, se enfrentará a la selección de Castilla y León en la próxima ronda, con la esperanza de alcanzar la final.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-04-10T16:00:00"
+  },
+  {
+    "Id": 22,
+    "Titulo": "El I Campus de Semana Santa de Fútbol 7 Navarra fue todo un éxito",
+    "Contenido": "El I Campus de Semana Santa de Fútbol 7 Navarra, organizado por la Federación Navarra de Fútbol, ha sido todo un éxito. Más de 200 jóvenes futbolistas participaron en este evento que combinó formación técnica y diversión. Los participantes recibieron clases de entrenadores cualificados y tuvieron la oportunidad de mejorar sus habilidades en el campo.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-04-25T18:00:00"
+  },
+  {
+    "Id": 23,
+    "Titulo": "El Torneo de Clausura de Fútbol 7 Navarra se celebrará tras el parón de Navidad",
+    "Contenido": "El Torneo de Clausura de la temporada 2024/2025 de Fútbol 7 Navarra se celebrará tras el parón de Navidad, a partir del lunes 10 de febrero de 2025. Este torneo reunirá a equipos de toda la comunidad para competir en diversas categorías. Las inscripciones ya están abiertas y se espera una gran participación.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-02-01T10:00:00"
   }
 ]
+
