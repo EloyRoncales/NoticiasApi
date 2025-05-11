@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "El Tudelano se la juega en la última jornada",
+    "Contenido": "El Club Deportivo Tudelano se enfrentó al Arenas de Getxo en un partido crucial para su permanencia en la Segunda RFEF. A pesar de mostrar una buena imagen y remontar un gol inicial, un tanto en los minutos finales dejó al equipo sin premio.\n\nAhora, el Tudelano deberá confirmar su permanencia en casa frente al Anguiano, en un duelo a vida o muerte. La afición se prepara para apoyar al equipo en este decisivo encuentro.",
+    "Autor": "Ekain Barreiro",
+    "FechaPublicacion": "2025-04-27T18:06:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "Gerard Piqué, en el Promesas-Andorra",
+    "Contenido": "El exjugador del FC Barcelona, Gerard Piqué, asistió al partido entre Osasuna Promesas y el FC Andorra en Tajonar. Como máximo accionista del club andorrano, Piqué presenció el calentamiento desde una esquina del campo e incluso participó en el trabajo de los porteros locales.\n\nSu presencia no pasó desapercibida entre los aficionados, quienes aprovecharon para saludar y fotografiarse con el exfutbolista. Tras el encuentro, Piqué compartió una cena con miembros del club, fortaleciendo los lazos entre ambas entidades.",
+    "Autor": "Irache Castillo",
+    "FechaPublicacion": "2025-04-27T17:08:00"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Un derbi navarro de Primera",
+    "Contenido": "El ATP Iluminación Tudelano Ribera Navarra logró un triunfo histórico al imponerse por 1-6 al Osasuna Magna Xota en el derbi navarro disputado en el pabellón Anaitasuna. Este resultado marca la primera victoria del equipo de Tudela en Pamplona en partido oficial.\n\nEl encuentro estuvo lleno de emoción y goles, destacando la actuación de los visitantes que supieron aprovechar las oportunidades y mantener una defensa sólida. Esta victoria refuerza la posición del Tudelano Ribera Navarra en la clasificación y demuestra su crecimiento en la categoría.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-04-26T10:02:00"
+  },
+  {
+    "Id": 4,
+    "Titulo": "Luis de la Fuente, López Vallejo y Santi Denia acuden a Navarra para una charla por el centenario de un club",
+    "Contenido": "Tafalla acogerá el próximo lunes, 12 de mayo, uno de los actos más destacados del centenario de la Peña Sport. A partir de las 19:30 horas, el Centro Cultural Kulturgunea será el escenario de una charla con tres figuras clave del fútbol español: Luis de la Fuente, actual seleccionador nacional; Santi Denia, seleccionador sub-21; y López Vallejo, exguardameta y actual director deportivo.\n\nEl evento promete ser un homenaje al legado y la historia del club tafallés, ofreciendo a los asistentes la oportunidad de conocer de cerca las experiencias y perspectivas de estos destacados profesionales del fútbol.",
+    "Autor": "Redacción",
+    "FechaPublicacion": "2025-05-11T11:53:00"
+  },
+  {
+    "Id": 5,
+    "Titulo": "El Comité de Apelación falla tras el recurso de Osasuna presentado por el caso Íñigo Martínez del Barcelona",
+    "Contenido": "El Comité de Apelación de la Real Federación Española de Fútbol (RFEF) desestimó el recurso presentado por Osasuna respecto a la supuesta alineación indebida de Íñigo Martínez por parte del FC Barcelona en el partido del 27 de marzo, que terminó 3-0 a favor del club catalán. Osasuna alegaba que el jugador no debía haber participado tras haber sido dado de baja por motivos médicos de la selección española el 17 de marzo.\n\nSin embargo, Apelación concluyó que la desconvocatoria del jugador fue oficial y notificada adecuadamente, por lo que ya no estaba sujeto a la restricción de cinco días establecida por la FIFA. También aclaró que solo la RFEF puede decidir si una lesión está suficientemente acreditada y que no era necesario un reconocimiento médico federativo dado que la federación aceptó los informes médicos del Barcelona.\n\nAsimismo, rechazó que existiera trato discriminatorio en comparación con otros jugadores. En resumen, las alegaciones de Osasuna fueron descartadas por una interpretación jurídica que favoreció al FC Barcelona.",
+    "Autor": "Íñigo Zurbano",
+    "FechaPublicacion": "2025-05-08T15:09:00"
+  }
+]
